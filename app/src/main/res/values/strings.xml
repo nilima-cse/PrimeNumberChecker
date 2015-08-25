@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Prime Number Checker</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="number_range_view">Enter number range</string>
+    <string name="prime_number_view">Prime Numbers</string>
+    <string name="result_view">Prime Numbers </string>
+    <string name="first_range">From </string>
+    <string name="second_range">To </string>
+    <string name="okBtn">Show Prime </string>
+</resources>
